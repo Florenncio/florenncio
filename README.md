@@ -1,4 +1,4 @@
-## Olá 👋 Me chamo Fernando Florêncio
+## Olá 👋 Me chamo Fernando Florêncio.
 
 - 🔭 Atualmente trabalho com gestão de projetos e analise de dados.
 - 🌱 Estudando estatistica e ciência de dados.
